@@ -1,0 +1,5 @@
+# Linear Model-Based Intra Prediction in VVC Test Model
+> [link](https://ieeexplore.ieee.org/document/9054405)
+
+## Abstract
+This paper studies a new intra prediction method based on a linear model for improving the intra prediction performance of Versatile Video Coding (H.266/VVC) standard. The Linear Model-based Intra Prediction (LMIP) method in this work attempts to model the samples behavior of a coding block based on the reconstructed pixels in the neighboring of that block. The proposed method uses a 3-parameter linear function as prediction model in which the parameters of the model are derived based on a linear regression with mean square error minimization approach from the neighboring samples and their locations. The proposed LMIP method is then used as a new intra prediction mode in the VTM-4.0 test model of the VVC standard. The conducted experiments illustrate that the LMIP method provides on average 0.30% and 0.14% BD-rate improvements in luma component with all intra (AI) and random access (RA) configurations, respectively.

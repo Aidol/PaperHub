@@ -1,0 +1,5 @@
+# Enhancing VVC Through Cnn-Based Post-Processing
+> [link](https://ieeexplore.ieee.org/document/9102912)
+
+## Abstract
+This paper presents a new Convolutional Neural Network (CNN) based post-processing approach for video compression, which is applied at the decoder to improve the reconstruction quality. This method has been integrated with the Versatile Video Coding Test Model (VTM) 4.0.1, and evaluated using the Random Access (RA) configuration using the Joint Video Exploration Team (JVET) Common Test Conditions (CTC). The results show coding gains on all tested sequences at various spatial resolutions over different quantisation parameter ranges, with average bit rate savings (based on Bjøntegaard Delta measurements) of 3.90% and 4.13%, when PSNR and VMAF are used as quality metrics respectively. The computational complexities of different CNN architecture variants have also been investigated.

@@ -1,1 +1,5 @@
-这里是是第二篇论文
+# On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution
+> [link](https://ieeexplore.ieee.org/document/9123140)
+
+## Abstract
+Coding 4K data has become of vital interest in recent years, since the amount of 4K data is significantly increasing. We propose a coding chain with spatial down- and upscaling that combines the next-generation VVC codec with machine learning based single image super-resolution algorithms for 4K. The investigated coding chain, which spatially downscales the 4K data before coding, shows superior quality than the conventional VVC reference software for low bitrate scenarios. Throughout several tests, we find that up to 12 % and 18% Bjontegaard delta rate gains can be achieved on average when coding 4K sequences with VVC and QP values above 34 and 42, respectively. Additionally, the investigated scenario with up- and downscaling helps to reduce the loss of details and compression artifacts, as it is shown in a visual example.

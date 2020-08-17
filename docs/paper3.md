@@ -1,0 +1,5 @@
+# Fast CU Partition and Intra Mode Decision Method for H.266/VVC
+> [link](https://ieeexplore.ieee.org/document/9123862/)
+
+## Abstract
+The Versatile Video Coding (H.266/VVC) standard has developed by Joint Video Exploration Team (JVET). Compared with the previous generation video coding standard, the H.266/VVC is more outstanding. Since the H.266/VVC introduces multi-type tree (MTT) structure including binary tree (BT) and ternary tree (TT), which brings the significant coding efficiency but increases coding complexity. Moreover, the intra prediction modes have increased from 35 to 67, which can provide more accurate prediction than H.265/High Efficiency Video Coding (HEVC). Therefore, these can improve the encoding quality, but increase computational complexity. To reduce the computational complexity, this paper designs a fast coding unit (CU) partition and intra mode decision algorithm, which includes fast CU partition based on random forest classifier (RFC) model and fast intra prediction modes optimization based on texture region features. Simulation results indicate that the proposed scheme can save 54.91% encoding time with only 0.93% increase in BDBR.

@@ -1,0 +1,5 @@
+# Rate-Distortion and Complexity Comparison of HEVC and VVC Video Encoders
+> [link](https://ieeexplore.ieee.org/document/9069036/)
+
+## Abstract
+Video-coding systems have presented significant improvements driven by the wide adoption of video streaming technologies combined with demands for better quality from users. The most recent video-coding standard from JCT-VC, named High Efficiency Video Coding, greatly improved the compression rate compared to its predecessor, H.264/AVC, but an even better performance must be pursued to accommodate future technologies. This article presents a comparison between the current state-of-art HEVC standard with the most recent project that is being conducted by the same group of experts, entitled Versatile Video Coding (VVC). According to experimental results obtained using similar configurations for both encoders, the VVC reference software provides significant bit-rate savings of 44.4% on average when compared to HEVC. However, this compression gains come with high computational costs: the VVC encoding time is on average 10.2 times higher when SIMD are used, and 15.9 times higher without such optimizations.

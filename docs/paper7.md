@@ -1,0 +1,4 @@
+# Fast CU Partitioning Algorithm for H.266/VVC Intra-Frame Coding
+> [link](https://ieeexplore.ieee.org/document/8785014)
+## Abstract
+Recently, the Joint Video Exploration Team (JVET) has established the latest video coding standard, Versatile Video Coding (H.266/VVC). The H.266/VVC adopts the quadtree with nested multi-type tree coding block structure which brings huge computational burden that limits the development, adoption and application of the future video coding standard. To encounter this problem, we propose a novel fast block partition algorithm through Bayesian decision rule. The proposed method fully explored the information of the horizontal binary splitting which is newly introduced because of the adoption of the novel coding block structure. Experimental results demonstrate that the proposed algorithm achieves about 45% encoding time saving on average with negligible quality loss under all-intra configuration.
