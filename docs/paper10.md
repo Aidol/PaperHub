@@ -1,0 +1,5 @@
+# Post-Processing Network Based on Dense Inception Attention for Video Compression
+> [link](https://ieeexplore.ieee.org/document/9150897)
+
+## Abstract
+Traditional video coding standards, such as HEVC and VVC, have achieved significant compression performance. To further improve the coding efficiency, a post-processing network is proposed to enhance the compressed frames in this paper. Specifically, the proposed network, namely DIA_Net, contains multiple inception blocks, attention mechanism and dense residual structure. The DIA_Net can efficiently extract information of multiple scale and fully exploit the extracted feature to improve image quality. In addition, the DIA_Net is integrated into the latest test model of VVC (VTM-8.0) to post-process the reconstructed frames of the decoder for better compression performance. The proposed scheme has achieved the best performance in the sense of PSNR at the similar bitrate in the validation sets of challenge on learned image compression (CLIC), which demonstrates the superiority of our approach.

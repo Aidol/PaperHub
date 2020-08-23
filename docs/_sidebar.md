@@ -14,3 +14,8 @@
     * [Fast CU Partitioning Algorithm for H.266/VVC Intra-Frame Coding](paper7.md "Fast CU Partitioning Algorithm for H.266/VVC Intra-Frame Coding")
     * [Linear Model-Based Intra Prediction in VVC Test Model](paper8.md "Linear Model-Based Intra Prediction in VVC Test Model")
     * [Multi-scale Grouped Dense Network for VVC Intra Coding](paper9.md "Multi-scale Grouped Dense Network for VVC Intra Coding")
+
+* **08-26**
+    * [Post-Processing Network Based on Dense Inception Attention for Video Compression](paper10.md "Post-Processing Network Based on Dense Inception Attention for Video Compression")
+    * [Multi-Gradient Convolutional Neural Network Based In-Loop Filter For Vvc](paper11.md "Multi-Gradient Convolutional Neural Network Based In-Loop Filter For Vvc")
+    * [Fast Affine Motion Estimation for Versatile Video Coding (VVC) Encoding](paper12.md "Fast Affine Motion Estimation for Versatile Video Coding (VVC) Encoding")
